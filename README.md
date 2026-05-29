@@ -13,7 +13,7 @@ I build end-to-end products — from the UI to the model to the infra. I care ab
 `Flutter` `React` `TypeScript` `Next.js`
 
 **Backend**
-`Express` `Node.js` `FastAPI` `PostgreSQL` `Redis` `MongoDB`
+`Express` `Node.js` `FastAPI` `PostgreSQL` `Redis` `MongoDB` `MySQL`
 
 **AI / ML**
 `LangChain` `PyTorch` `HuggingFace` `RAG` `Fine-tuning` `Vector DBs`
@@ -37,21 +37,21 @@ A mobile-first fitness app that generates personalized workout plans using AI. B
 ### [PortfolioForge](https://github.com/BharatBhargava01/portfolioForge)
 A TypeScript tool that auto-generates developer portfolio sites. Because hand-writing HTML for your portfolio is ironic.
 
-`TypeScript` `Gemini Api`
+`TypeScript` `Gemini Api` `MongoDB`
 
 ---
 
 ### [Auth System](https://github.com/BharatBhargava01/auth-system)
-A complete authentication system with JWT, refresh tokens, and role-based access control. Production-ready and reusable.
+Node.js auth system with local login, Google/GitHub/Facebook OAuth, Twilio OTP, and session management — built with Passport.js and MongoDB.
 
-`JavaScript` 
+`JavaScript` `MongoDB` `Docker` `Node.js`
 
 ---
 
 ### [Network Packet Tracer](https://github.com/BharatBhargava01/network-packet-tracer)
 Visualises network packet flow in real time. Built for understanding and debugging network behaviour.
 
-`JavaScript` `Scappy`
+`JavaScript` `Scappy` `Python`
 
 ---
 

@@ -37,21 +37,21 @@ A mobile-first fitness app that generates personalized workout plans using AI. B
 ### [PortfolioForge](https://github.com/BharatBhargava01/portfolioForge)
 A TypeScript tool that auto-generates developer portfolio sites. Because hand-writing HTML for your portfolio is ironic.
 
-`TypeScript`
+`TypeScript` `Gemini Api`
 
 ---
 
 ### [Auth System](https://github.com/BharatBhargava01/auth-system)
 A complete authentication system with JWT, refresh tokens, and role-based access control. Production-ready and reusable.
 
-`JavaScript` `JWT` `RBAC`
+`JavaScript` 
 
 ---
 
 ### [Network Packet Tracer](https://github.com/BharatBhargava01/network-packet-tracer)
 Visualises network packet flow in real time. Built for understanding and debugging network behaviour.
 
-`JavaScript`
+`JavaScript` `Scappy`
 
 ---
 
@@ -67,8 +67,3 @@ I'm open to full-time roles, freelance projects, and collabs. Best ways to reach
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bharat-bhargava-606632213/)
 - 📧 bharatbhargava2005@gmail.com
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

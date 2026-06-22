@@ -3,7 +3,7 @@
 
 **Full-Stack AI & DevOps Engineer** · MCA @ South Asian University, Delhi · Open to work & freelance
 
-I build end-to-end products — from the UI to the model to the infra. I care about shipping things that work, not just things that look good in a README. Currently deep in a Flutter + NestJS + AI workout generator with microservices on AWS.
+I build end-to-end products — from the UI to the model to the infra. I care about shipping things that work, not just things that look good in a README. Currently working at CFEES, DRDO, as a Trainee.
 
 ---
 
@@ -20,15 +20,6 @@ I build end-to-end products — from the UI to the model to the infra. I care ab
 
 **DevOps & Cloud**
 `AWS` `Docker` `Kubernetes` `GitHub Actions`
-
----
-
-## 🔨 What I'm building right now
-
-### AI Workout Generator App *(in progress)*
-A mobile-first fitness app that generates personalized workout plans using AI. Built with Flutter, NestJS microservices, PostgreSQL, Redis, AWS, and Docker/Kubernetes. Rules-based generation first, LLM integration in progress.
-
-`Flutter` `NestJS` `AWS` `LLM` `Kubernetes`
 
 ---
 
